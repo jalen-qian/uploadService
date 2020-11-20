@@ -1,1 +1,2 @@
 # uploadService
+uploadService是一个小工具，为了实现Typora在粘贴图片时，自动将图片上传到七牛云，以获得笔记中图片的CDN支持。
